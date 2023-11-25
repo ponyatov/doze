@@ -1,5 +1,4 @@
 :ag
-dmd run
+dub run
 pause
 goto ag
-
