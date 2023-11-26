@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Dmitry Ponyatov"
+	],
+	"dependencies": {
+		"dorm": "~>0.4.0",
+		"dorm:build-models": "~>0.4.0"
+	},
+	"license": "proprietary",
+	"name": "dorm"
+}
