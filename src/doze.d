@@ -1,10 +1,10 @@
+import std.stdio;
+import std.string;
+
 version (Windows) {
     import core.runtime;
     import core.sys.windows.windows;
 }
-
-import std.stdio;
-import std.string;
 
 version (Windows) {
     // https://github.com/AndrejMitrovic/DWinProgramming
