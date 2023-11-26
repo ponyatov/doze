@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Dmitry Ponyatov"
+	],
+	"copyright": "Copyright © 2023, Dmitry Ponyatov",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "vibe"
+}
